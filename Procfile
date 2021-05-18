@@ -1,0 +1,1 @@
+web: streamlit run app.py --server.port $PORT --browser.serverAddress https://nicks-first-app.herokuapp.com
